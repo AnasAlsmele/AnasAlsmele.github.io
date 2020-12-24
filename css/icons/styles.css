@@ -1,0 +1,211 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "anas";
+  src:url("fonts/anas.eot");
+  src:url("fonts/anas.eot?#iefix") format("embedded-opentype"),
+    url("fonts/anas.woff") format("woff"),
+    url("fonts/anas.ttf") format("truetype"),
+    url("fonts/anas.svg#anas") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "anas" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="anas-"]:before,
+[class*=" anas-"]:before {
+  font-family: "anas" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.anas-logout:before {
+  content: "\61";
+}
+.anas-star:before {
+  content: "\62";
+}
+.anas-dolly:before {
+  content: "\63";
+}
+.anas-list:before {
+  content: "\64";
+}
+.anas-image:before {
+  content: "\65";
+}
+.anas-control-panel:before {
+  content: "\66";
+}
+.anas-cog:before {
+  content: "\67";
+}
+.anas-file:before {
+  content: "\68";
+}
+.anas-fingerprint:before {
+  content: "\69";
+}
+.anas-settings:before {
+  content: "\6a";
+}
+.anas-safety:before {
+  content: "\6b";
+}
+.anas-edit:before {
+  content: "\6c";
+}
+.anas-earth:before {
+  content: "\6d";
+}
+.anas-plus:before {
+  content: "\6e";
+}
+.anas-times:before {
+  content: "\6f";
+}
+.anas-warning:before {
+  content: "\70";
+}
+.anas-user:before {
+  content: "\71";
+}
+.anas-phone:before {
+  content: "\72";
+}
+.anas-delivery-man:before {
+  content: "\73";
+}
+.anas-correct:before {
+  content: "\74";
+}
+.anas-order:before {
+  content: "\75";
+}
+.anas-truck:before {
+  content: "\76";
+}
+.anas-trash:before {
+  content: "\77";
+}
+.anas-open-folder:before {
+  content: "\78";
+}
+.anas-calendar:before {
+  content: "\79";
+}
+.anas-box:before {
+  content: "\7a";
+}
+.anas-users:before {
+  content: "\41";
+}
+.anas-time-is-money:before {
+  content: "\42";
+}
+.anas-store:before {
+  content: "\43";
+}
+.anas-location:before {
+  content: "\44";
+}
+.anas-bag:before {
+  content: "\45";
+}
+.anas-building:before {
+  content: "\46";
+}
+.anas-mail:before {
+  content: "\47";
+}
+.anas-statistics:before {
+  content: "\48";
+}
+.anas-info:before {
+  content: "\49";
+}
+.anas-switch:before {
+  content: "\4a";
+}
+.anas-home:before {
+  content: "\4b";
+}
+.anas-coupon:before {
+  content: "\4c";
+}
+.anas-search:before {
+  content: "\4d";
+}
+.anas-shirt:before {
+  content: "\4e";
+}
+.anas-save:before {
+  content: "\4f";
+}
+.anas-money:before {
+  content: "\50";
+}
+.anas-new-window:before {
+  content: "\51";
+}
+.anas-eye:before {
+  content: "\52";
+}
+.anas-feed:before {
+  content: "\53";
+}
+.anas-truck-time:before {
+  content: "\54";
+}
+.anas-arrow-left:before {
+  content: "\55";
+}
+.anas-arrow-right:before {
+  content: "\56";
+}
+.anas-heart:before {
+  content: "\57";
+}
+.anas-zoom-in:before {
+  content: "\58";
+}
+.anas-link:before {
+  content: "\59";
+}
+.anas-add-book:before {
+  content: "\5a";
+}
+.anas-return:before {
+  content: "\30";
+}
+.anas-youtube:before {
+  content: "\31";
+}
+.anas-github:before {
+  content: "\32";
+}
+.anas-facebook:before {
+  content: "\33";
+}
+.anas-linkedin:before {
+  content: "\34";
+}

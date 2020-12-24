@@ -1,0 +1,31 @@
+:root{
+    /* colors */
+    --z-red: #d62828;
+    --z-red-t10: rgba(214, 40, 40, .1);
+    --z-red-t40: rgba(214, 40, 40, .4);
+    --z-orange: #f77f00;
+    --z-orange-t5: rgba(247, 127, 0, .1);
+    --z-yellow: #fcbf49;
+    --z-white: #eae2b7;
+    --z-black: #003049;
+    --z-black-t10: rgba(0, 48, 73, .05);
+    --z-green: #99CC66;
+    --z-green-t10: rgba(153, 204, 102, .1);
+    --z-green-t40: rgba(153, 204, 102, .4);
+    --z-c-ff: #FFFFFF;
+    --z-c-fd: #FDFDFD;
+    --z-c-f9: #F9F9F9;
+    --z-c-f5: #F5F5F5;
+    --z-c-f0: #F0F0F0;
+    --z-c-e5: #E5E5E5;
+    --z-c-e5-t20: rgba(229, 229, 229, .2);
+    --z-c-e5-t40: rgba(229, 229, 229, .4);
+    --z-c-e5-t60: rgba(229, 229, 229, .6);
+    --z-c-e5-t80: rgba(229, 229, 229, .8);
+    --z-c-dd: #DDDDDD;
+    --z-c-cc: #CCCCCC;
+    --z-c-bb: #BBBBBB;
+    --z-c-a9: #A9A9A9;
+    --z-c-99: #999999;
+    --z-c-44: #444444;
+}

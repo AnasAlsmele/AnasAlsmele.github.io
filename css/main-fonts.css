@@ -1,0 +1,12 @@
+@font-face{
+    font-family: Cairo-Regular;
+    src: url(fonts/Cairo-Regular.ttf);
+}
+@font-face{
+    font-family: DroidKufi-Bold;
+    src: url(fonts/DroidKufi-Bold.ttf);
+}
+@font-face{
+    font-family: Spartan;
+    src: url(fonts/Spartan-VariableFont_wght.ttf);
+}
